@@ -1,0 +1,16 @@
+{
+  "name": "engineering-practice-lab",
+  "version": "0.1.0",
+  "description": "A structured lab for practicing software design, testing, and review workflows.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch"
+  },
+  "author": "Ronit Pahuja",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  }
+}
