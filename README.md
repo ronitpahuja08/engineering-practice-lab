@@ -1,6 +1,6 @@
 # Engineering Practice Lab
 
-A private, structured workspace for practicing algorithm design, production-minded JavaScript, automated testing, documentation, and GitHub collaboration workflows.
+A structured, public workspace for practicing algorithm design, production-minded JavaScript, automated testing, documentation, and GitHub collaboration workflows.
 
 This repository treats each exercise like a small engineering change rather than a loose code snippet. Every exercise starts with an issue, is implemented on a focused branch, includes tests and design notes, and is delivered through a pull request with a review checklist.
 

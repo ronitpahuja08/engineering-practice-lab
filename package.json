@@ -9,7 +9,7 @@
     "test:watch": "node --test --watch"
   },
   "author": "Ronit Pahuja",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "engines": {
     "node": ">=20"
   }
