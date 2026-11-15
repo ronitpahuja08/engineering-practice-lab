@@ -52,3 +52,6 @@ test/        Automated tests mirroring src/
 - Complexity claims are justified in the PR description.
 - Public functions have clear input and output contracts.
 - Review notes identify at least one tradeoff or possible improvement.
+
+The completed token-bucket exercise is documented in
+[its review notes](docs/reviews/token-bucket-rate-limiter.md).
