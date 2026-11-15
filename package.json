@@ -5,6 +5,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "bench:token-bucket": "node bench/token-bucket.bench.js",
     "test": "node --test",
     "test:watch": "node --test --watch"
   },
