@@ -28,6 +28,8 @@ For every exercise:
 | 7 | Integration and retrospective | Refactoring, documentation, and release discipline |
 
 The detailed plan and acceptance criteria live in [ROADMAP.md](ROADMAP.md).
+The final integration lessons and release checklist are recorded in the
+[retrospective](docs/retrospective.md).
 
 ## Run the tests
 
